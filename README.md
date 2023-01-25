@@ -1,5 +1,5 @@
 # AI Chat GPT-3
-access deployed application [here](https://ai-chat-tau.vercel.app/)
+Access deployed application [here](https://ai-chat-tau.vercel.app/)
 ### Components
 
 - Next.js
