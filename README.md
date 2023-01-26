@@ -1,7 +1,7 @@
 # AI Chat GPT-3
 Access deployed application [here](https://ai-chat-tau.vercel.app/)
 #Known Issue
-API requests are buggy and oftentimes fail. Currently working on handling test cases.
+API requests are buggy and oftentimes fail due to request overload. Currently working on handling test cases.
 
 ### Components
 
