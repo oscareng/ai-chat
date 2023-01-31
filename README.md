@@ -14,7 +14,7 @@ Access deployed application [here](https://ai-chat-tau.vercel.app/)
 
 #### Set up environment variables
 
-Rename [`.env.example`](.env.example) to `.env.local`:
+Create file named .env.local in root directory
 
 ```bash
 cp .env.example .env.local
