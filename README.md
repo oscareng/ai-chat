@@ -20,7 +20,7 @@ Create file named .env.local in root directory
 cp .env.example .env.local
 ```
 
-then, update `OPENAI_API_KEY` with your [OpenAI](https://beta.openai.com/account/api-keys) secret key.
+then, update `OPENAI_API_KEY` with your [OpenAI secret key](https://beta.openai.com/account/api-keys).
 
 Next, run Next.js in development mode:
 
