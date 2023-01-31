@@ -1,16 +1,10 @@
 # AI Chat GPT-3
 Access deployed application [here](https://ai-chat-tau.vercel.app/)
 
-# Known Issues
+### Known Issues
 -API requests are buggy and oftentimes fail due to request overload. Currently working on handling test cases.  
 -Updated UI currently in development  
 -Researching finetuning and semantic search capabilities for further use cases 
-
-### Components
-
-- Next.js
-- OpenAI API (REST endpoint)
-- API Routes (Edge runtime)
 
 #### Set up environment variables
 
