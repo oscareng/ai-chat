@@ -6,17 +6,16 @@ export default function Head() {
       <meta charSet="UTF-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       <meta property="og:title" content="ChatGPT" />
-      <meta
-        property="og:image"
-        itemProp="image"
-        content="https://i.postimg.cc/gjk0pm4n/chatgpt-meta-preview-200.png"
-      />
+      <meta />
       <meta
         property="og:image:alt"
         content="Be Mine Valentine Heart animation"
       />
-      <meta property="og:description" content="Project by Er. Sumit Kumar" />
-      <meta property="og:url" content="https://chatgpt-sumit.vercel.app/" />
+      <meta property="og:description" content="Project by Oscar Rolf" />
+      <meta
+        property="og:url"
+        content="https://chatgpt-clone-chi-three.vercel.app/"
+      />
       <meta property="og:type" content="website" />
       <meta property="og:image:type" content="image/png" />
       <meta property="og:image:width" content="300" />
