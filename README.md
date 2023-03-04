@@ -9,3 +9,9 @@
 * React
 * Firebase
 * TailwindCSS
+
+# Implementations
+* Firebase for authentication and real time database.
+* [React Hot Toast Library](https://react-hot-toast.com/) for notifications
+* [useSWR](https://swr.vercel.app/) for data fetching
+* Deployed using vercel
