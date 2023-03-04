@@ -1,7 +1,8 @@
 # [ChatGPT Clone](https://chatgpt-clone-oscareng.vercel.app)
-Make sure you select chat-gpt from the drop down menu for best prompt results!
+
 ![ChatGPT](https://i.postimg.cc/vTGmgmn4/Capture.png)
 
+**Note: Select chat-gpt from the drop down menu for best result**
 
 # Tech Stack
 * TypeScript
